@@ -59,7 +59,7 @@
 }
 
 .hero__section_title {
-    text_align: center;
+    text-align: center;
     font-size: 30px;
     font-weight: 400;
 }
